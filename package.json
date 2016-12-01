@@ -1,0 +1,36 @@
+{
+  "name": "rekord-knex",
+  "version": "1.5.0",
+  "description": "A rekord binding to Knex.js - implementing Rekord.rest on the server side",
+  "author": "Philip Diffenderfer",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rekord/rekord-knex.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-check-filesize": "^2.0.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-qunit": "^1.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-shell": "^0.5.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.6",
+    "jaguarjs-jsdoc": "1.0.0",
+    "jsdoc": "^3.4.0",
+    "jshint": "^2.9.2",
+    "merge-stream": "^1.0.0",
+    "sqlite3": "^3.1.8"
+  },
+  "dependencies": {
+    "knex": "^0.12.6",
+    "rekord": "^1.5.1"
+  }
+}
