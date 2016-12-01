@@ -69,7 +69,6 @@ Rekord.Promise
   })
   .catch(function(error) {
     // handle an error!
-    process.exit();
   })
 ;
 ```
