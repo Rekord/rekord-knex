@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Rekord/rekord/master/images/rekord-color.png" width="60"> rekord-knex
 
-[![Build Status](https://travis-ci.org/Rekord/rekord-knex.svg?branch=master)](https://travis-ci.org/Rekord/rekord-knex
+[![Build Status](https://travis-ci.org/Rekord/rekord-knex.svg?branch=master)](https://travis-ci.org/Rekord/rekord-knex)
 [![devDependency Status](https://david-dm.org/Rekord/rekord-knex/dev-status.svg)](https://david-dm.org/Rekord/rekord-knex#info=devDependencies)
 [![Dependency Status](https://david-dm.org/Rekord/rekord-knex.svg)](https://david-dm.org/Rekord/rekord-knex)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Rekord/rekord/blob/master/LICENSE)
