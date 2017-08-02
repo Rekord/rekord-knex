@@ -1,6 +1,6 @@
 {
   "name": "rekord-knex",
-  "version": "1.5.0",
+  "version": "1.5.6",
   "description": "A rekord binding to Knex.js - implementing Rekord.rest on the server side",
   "author": "Philip Diffenderfer",
   "license": "MIT",
@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "knex": "^0.12.6",
-    "rekord": "^1.5.1"
+    "rekord": "~1.5.6"
   }
 }

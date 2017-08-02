@@ -192,4 +192,5 @@ function RestFactory(database)
   return new Rest( database );
 }
 
+Rekord.Rests.Knex = RestFactory;
 Rekord.setRest( RestFactory );
